@@ -1,0 +1,965 @@
+C:\Users\User\Desktop\기말_Project\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.pdb
+D:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\bin\Debug\기말_Project.exe.config
+D:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.exe
+D:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.pdb
+D:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\bin\Debug\기말_Project.exe
+D:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\bin\Debug\기말_Project.pdb
+D:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+D:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Login.resources
+D:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+D:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+D:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+D:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\bin\Debug\기말_Project.exe.config
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\bin\Debug\기말_Project.exe
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\bin\Debug\기말_Project.pdb
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Login.resources
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.exe
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.pdb
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_현황.resources
+C:\Users\YM\Desktop\기말_Project\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\YM\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\YM\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\YM\Desktop\기말_Project\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\YM\Desktop\기말_Project\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\YM\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\YM\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\YM\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\YM\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\YM\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\YM\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\YM\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\YM\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Admin_Main_학생_출결_관리.resources
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Professor_Main_성적옵션.resources
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Professor_Main_출석체크.resources
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Professor_Main_학생관리.resources
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Downloads\기말_Project\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Downloads\기말_Project\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Downloads\기말_Project\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Downloads\기말_Project\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Downloads\기말_Project\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Downloads\기말_Project\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\기말_Project\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Downloads\기말_Project\기말_Project\obj\Debug\기말_Project.Admin_Main_학생_출결_관리.resources
+C:\Users\User\Downloads\기말_Project\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Downloads\기말_Project\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Downloads\기말_Project\기말_Project\obj\Debug\기말_Project.Professor_Main_성적옵션.resources
+C:\Users\User\Downloads\기말_Project\기말_Project\obj\Debug\기말_Project.Professor_Main_출석체크.resources
+C:\Users\User\Downloads\기말_Project\기말_Project\obj\Debug\기말_Project.Professor_Main_학생관리.resources
+C:\Users\User\Downloads\기말_Project\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Downloads\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Downloads\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Downloads\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Downloads\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_현황.resources
+C:\Users\User\Downloads\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Downloads\기말_Project\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\기말_Project\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\YM\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\YM\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\YM\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project\기말_Project\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project\기말_Project\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project\기말_Project\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project\기말_Project\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project\기말_Project\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project (1)\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project (1)\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project (1)\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project (1)\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project (1)\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project (1)\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project (1)\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project (1)\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project (1)\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project (1)\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project (1)\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project (1)\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project (1)\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project (1)\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project (1)\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project (1)\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project (1)\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project\기말_Project_1123_1\기말_Project\bin\Debug\기말_Project.exe.config
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project\기말_Project_1123_1\기말_Project\obj\Debug\기말_Project.exe
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project\기말_Project_1123_1\기말_Project\obj\Debug\기말_Project.pdb
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project\기말_Project_1123_1\기말_Project\bin\Debug\기말_Project.exe
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project\기말_Project_1123_1\기말_Project\bin\Debug\기말_Project.pdb
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project\기말_Project_1123_1\기말_Project\bin\Debug\Oracle.DataAccess.dll
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project\기말_Project_1123_1\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project\기말_Project_1123_1\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project\기말_Project_1123_1\기말_Project\obj\Debug\기말_Project.Login.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project\기말_Project_1123_1\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project\기말_Project_1123_1\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project\기말_Project_1123_1\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project\기말_Project_1123_1\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project\기말_Project_1123_1\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project\기말_Project_1123_1\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project\기말_Project_1123_1\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project\기말_Project_1123_1\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project_1127_1\기말_Project_1127_1\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1127_1\기말_Project_1127_1\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1127_1\기말_Project_1127_1\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1127_2\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1127_2\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1127_2\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1127_3\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1127_3\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1127_3\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1127_3\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1127_3\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1127_3\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1127_3\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1127_3\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1127_3\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1127_3\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1127_3\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1127_3\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1127_3\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1127_3\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1127_3\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1127_3\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1127_3\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_4\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_4\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_4\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_4\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_4\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_4\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_4\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_4\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_4\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_4\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_4\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_4\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_4\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_4\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_5\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_5\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_5\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_5\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_5\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_5\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_5\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_5\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_5\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_5\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_5\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_5\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_5\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_5\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_5\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_5\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1127_5\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1127_7\기말_Project\bin\Debug\기말_Project.exe.config
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1127_7\기말_Project\obj\Debug\기말_Project.exe
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1127_7\기말_Project\obj\Debug\기말_Project.pdb
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1127_7\기말_Project\bin\Debug\기말_Project.exe
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1127_7\기말_Project\bin\Debug\기말_Project.pdb
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1127_7\기말_Project\bin\Debug\Oracle.DataAccess.dll
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1127_7\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1127_7\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1127_7\기말_Project\obj\Debug\기말_Project.Login.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1127_7\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1127_7\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1127_7\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1127_7\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1127_7\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1127_7\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1127_7\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1127_7\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project_1128_1\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1128_1\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1128_1\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1128_1\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+E:\기말_Project_1128_1\기말_Project\bin\Debug\기말_Project.exe.config
+E:\기말_Project_1128_1\기말_Project\bin\Debug\기말_Project.exe
+E:\기말_Project_1128_1\기말_Project\bin\Debug\기말_Project.pdb
+E:\기말_Project_1128_1\기말_Project\bin\Debug\Oracle.DataAccess.dll
+E:\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+E:\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+E:\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.Login.resources
+E:\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+E:\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+E:\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+E:\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+E:\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+E:\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+E:\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+E:\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+E:\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.exe
+E:\기말_Project_1128_1\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1128_2\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1128_2\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1128_2\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1128_2\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1128_2\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1128_2\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1128_2\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1128_2\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1128_2\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1128_2\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1128_2\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1128_2\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1128_2\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1128_2\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1128_2\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1128_2\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1128_2\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project_1128_3\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1128_3\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1128_3\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1128_3\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1128_3\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1128_3\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1128_3\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1128_3\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1128_3\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1128_3\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1128_3\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1128_3\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1128_3\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1128_3\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1128_3\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1128_3\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1128_3\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project_1128_4\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1128_4\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1128_4\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1128_4\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1128_4\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1128_4\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1128_4\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1128_4\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1128_4\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1128_4\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1128_4\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1128_4\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1128_4\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1128_4\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1128_4\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1128_4\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1128_4\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1128_5\기말_Project\bin\Debug\기말_Project.exe.config
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1128_5\기말_Project\obj\Debug\기말_Project.exe
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1128_5\기말_Project\obj\Debug\기말_Project.pdb
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1128_5\기말_Project\bin\Debug\기말_Project.exe
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1128_5\기말_Project\bin\Debug\기말_Project.pdb
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1128_5\기말_Project\bin\Debug\Oracle.DataAccess.dll
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1128_5\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1128_5\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1128_5\기말_Project\obj\Debug\기말_Project.Login.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1128_5\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1128_5\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1128_5\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1128_5\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1128_5\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1128_5\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1128_5\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1128_5\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project_1128_6\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1128_6\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1128_6\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1128_6\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1128_6\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1128_6\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1128_6\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1128_6\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1128_6\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1128_6\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1128_6\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1128_6\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1128_6\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1128_6\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1128_6\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1128_6\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1128_6\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project_1129_1\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1129_1\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1129_1\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1129_1\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1129_1\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1129_1\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1129_1\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1129_1\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1129_1\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1129_1\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1129_1\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1129_1\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1129_1\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1129_1\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1129_1\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1129_1\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1129_1\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_2\기말_Project\bin\Debug\기말_Project.exe.config
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_2\기말_Project\obj\Debug\기말_Project.exe
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_2\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1129_3\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1129_3\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1129_3\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1129_3\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1129_3\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1129_3\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1129_3\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1129_3\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1129_3\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1129_3\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1129_3\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1129_3\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1129_3\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1129_3\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1129_3\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1129_3\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1129_3\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project_1129_4\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1129_4\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1129_4\기말_Project\obj\Debug\기말_Project.pdb
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_5\기말_Project\bin\Debug\기말_Project.exe.config
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_5\기말_Project\obj\Debug\기말_Project.exe
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_5\기말_Project\obj\Debug\기말_Project.pdb
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_6\기말_Project\bin\Debug\기말_Project.exe.config
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_6\기말_Project\obj\Debug\기말_Project.exe
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_6\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1129_7\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1129_7\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1129_7\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1129_7\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1129_7\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1129_7\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1129_7\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1129_7\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1129_7\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1129_7\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1129_7\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1129_7\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1129_7\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1129_7\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1129_7\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1129_7\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1129_7\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1129_8\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1129_8\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1129_8\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1129_8\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1129_8\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1129_8\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1129_8\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1129_8\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1129_8\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1129_8\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1129_8\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1129_8\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1129_8\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1129_8\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1129_8\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1129_8\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1129_8\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_9\기말_Project\bin\Debug\기말_Project.exe.config
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_9\기말_Project\obj\Debug\기말_Project.exe
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_9\기말_Project\obj\Debug\기말_Project.pdb
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_9\기말_Project\bin\Debug\기말_Project.exe
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_9\기말_Project\bin\Debug\기말_Project.pdb
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_9\기말_Project\bin\Debug\Oracle.DataAccess.dll
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_9\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_9\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_9\기말_Project\obj\Debug\기말_Project.Login.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_9\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_9\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_9\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_9\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_9\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_9\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_9\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_9\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_10\기말_Project\bin\Debug\기말_Project.exe.config
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_10\기말_Project\obj\Debug\기말_Project.exe
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_10\기말_Project\obj\Debug\기말_Project.pdb
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_10\기말_Project\bin\Debug\기말_Project.exe
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_10\기말_Project\bin\Debug\기말_Project.pdb
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_10\기말_Project\bin\Debug\Oracle.DataAccess.dll
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_10\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_10\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_10\기말_Project\obj\Debug\기말_Project.Login.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_10\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_10\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_10\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_10\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_10\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_10\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_10\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+E:\1633008 김현우\2학년 2학기\C# 실습 (금)\기말고사 프로젝트\기말_Project_1129_10\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project_1130_1\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1130_1\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1130_1\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1130_2\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1130_2\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1130_2\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\obj\Debug\기말_Project.Admin_Main_출석관리.resources
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1130_3\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\obj\Debug\기말_Project.Admin_Main_출석관리.resources
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1130_4\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\obj\Debug\기말_Project.Admin_Main_출석관리.resources
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1130_5\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\obj\Debug\기말_Project.Admin_Main_출석관리.resources
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1130_6\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\obj\Debug\기말_Project.Admin_Main_출석관리.resources
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1130_7\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1204_1\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1204_1\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1204_1\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1204_2\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1204_2\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1204_2\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\obj\Debug\기말_Project.Admin_Main_출석관리.resources
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1204_3\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1205_1\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1205_1\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1205_1\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리2.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\obj\Debug\기말_Project.Admin_Main_출석관리.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_2\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리2.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\obj\Debug\기말_Project.Admin_Main_출석관리.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1205_3\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project_1205_4\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1205_4\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1205_4\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리_입력.resources
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\obj\Debug\기말_Project.Admin_Main_출석관리.resources
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1205_5\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project_1205_6\기말_Project\bin\Debug\기말_Project.exe.config
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project_1205_6\기말_Project\obj\Debug\기말_Project.exe
+E:\대학교\2학년 2학기\]]기말_Project\기말_Project_1205_6\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리_입력.resources
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\obj\Debug\기말_Project.Admin_Main_출석관리.resources
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1206_1\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_2\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_2\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_2\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리_입력.resources
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\obj\Debug\기말_Project.Admin_Main_출석관리.resources
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1206_3\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리_입력.resources
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\obj\Debug\기말_Project.Admin_Main_출석관리.resources
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1206_3 - 복사본\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리_입력.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\obj\Debug\기말_Project.Admin_Main_출석관리.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_5\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_6\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_6\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1206_6\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리_입력.resources
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1206_7\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리_입력.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리_입력.resources
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1207_2\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리_입력.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_3\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리_입력.resources
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\기말_Project_1207_4\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리_입력.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_5\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_6\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_6\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_6\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리_입력.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_7\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+C:\Users\YM\Desktop\기말_Project_1207_8\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\YM\Desktop\기말_Project_1207_8\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\YM\Desktop\기말_Project_1207_8\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리_입력.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Documents\카카오톡 받은 파일\기말_Project_1207_8\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\bin\Debug\기말_Project.exe.config
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\obj\Debug\기말_Project.exe
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\obj\Debug\기말_Project.pdb
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\bin\Debug\기말_Project.exe
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\bin\Debug\기말_Project.pdb
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\bin\Debug\Oracle.DataAccess.dll
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리_입력.resources
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\obj\Debug\기말_Project.Login.resources
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\기말_Project_1207_10 완성본\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\BU_Check\기말_Project\bin\Debug\기말_Project.exe.config
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\BU_Check\기말_Project\obj\Debug\기말_Project.exe
+E:\1633008 김현우\2학년 2학기 기말 프로젝트\BU_Check\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\BU_Check\기말_Project\bin\Debug\기말_Project.exe.config
+C:\Users\User\Desktop\BU_Check\기말_Project\obj\Debug\기말_Project.exe
+C:\Users\User\Desktop\BU_Check\기말_Project\obj\Debug\기말_Project.pdb
+C:\Users\User\Desktop\BU_Check\기말_Project\bin\Debug\기말_Project.exe
+C:\Users\User\Desktop\BU_Check\기말_Project\bin\Debug\기말_Project.pdb
+C:\Users\User\Desktop\BU_Check\기말_Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\BU_Check\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\BU_Check\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+C:\Users\User\Desktop\BU_Check\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+C:\Users\User\Desktop\BU_Check\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리_입력.resources
+C:\Users\User\Desktop\BU_Check\기말_Project\obj\Debug\기말_Project.Login.resources
+C:\Users\User\Desktop\BU_Check\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+C:\Users\User\Desktop\BU_Check\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+C:\Users\User\Desktop\BU_Check\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+C:\Users\User\Desktop\BU_Check\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+C:\Users\User\Desktop\BU_Check\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+C:\Users\User\Desktop\BU_Check\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+C:\Users\User\Desktop\BU_Check\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+C:\Users\User\Desktop\BU_Check\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+C:\Users\User\Desktop\BU_Check\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+E:\BU_Check\기말_Project\bin\Debug\기말_Project.exe.config
+E:\BU_Check\기말_Project\obj\Debug\기말_Project.exe
+E:\BU_Check\기말_Project\obj\Debug\기말_Project.pdb
+E:\BU_Check\기말_Project\bin\Debug\기말_Project.exe
+E:\BU_Check\기말_Project\bin\Debug\기말_Project.pdb
+E:\BU_Check\기말_Project\obj\Debug\기말_Project.csprojResolveAssemblyReference.cache
+E:\BU_Check\기말_Project\obj\Debug\기말_Project.Admin_Main.resources
+E:\BU_Check\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리.resources
+E:\BU_Check\기말_Project\obj\Debug\기말_Project.Admin_Main_이용자_관리_입력.resources
+E:\BU_Check\기말_Project\obj\Debug\기말_Project.Login.resources
+E:\BU_Check\기말_Project\obj\Debug\기말_Project.Professor_Main.resources
+E:\BU_Check\기말_Project\obj\Debug\기말_Project.Professor_Main_성적확인.resources
+E:\BU_Check\기말_Project\obj\Debug\기말_Project.Professor_Main_출석현황.resources
+E:\BU_Check\기말_Project\obj\Debug\기말_Project.Properties.Resources.resources
+E:\BU_Check\기말_Project\obj\Debug\기말_Project.Student_Main.resources
+E:\BU_Check\기말_Project\obj\Debug\기말_Project.Student_Main_성적열람.resources
+E:\BU_Check\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크_내역.resources
+E:\BU_Check\기말_Project\obj\Debug\기말_Project.Student_Main_출석체크.resources
+E:\BU_Check\기말_Project\obj\Debug\기말_Project.csproj.GenerateResource.Cache
+E:\BU_Check\기말_Project\bin\Debug\Oracle.DataAccess.dll
+E:\대학교\2학년 2학기\]]기말_Project\BU_Check\기말_Project\bin\Debug\기말_Project.exe.config
+E:\대학교\2학년 2학기\]]기말_Project\BU_Check\기말_Project\obj\Debug\기말_Project.exe
+E:\대학교\2학년 2학기\]]기말_Project\BU_Check\기말_Project\obj\Debug\기말_Project.pdb
