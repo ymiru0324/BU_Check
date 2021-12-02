@@ -6,5 +6,5 @@ BU_Check - 출석체크 프로그램
 ## 시스템 구성도
 ![슬라이드10](https://user-images.githubusercontent.com/81818730/144231387-32a0cbd0-c7b7-4459-839d-2ecd3159259c.PNG)
 
-## DB
+## DB 설계 및 구축
 ![슬라이드9](https://user-images.githubusercontent.com/81818730/144231384-b4e32421-9d9c-4315-bfbf-2c4088d05179.PNG)
